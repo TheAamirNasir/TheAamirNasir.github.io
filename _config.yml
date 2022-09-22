@@ -49,9 +49,9 @@ social:
     url: http://github.com/TheAamirNasir
 
 # Postal address (add as many lines as necessary)
-address:
+#address:
   #- line: 3481 Melrose Place
-  - line: Silvassa, IN 396230
+  #- line: Silvassa, India 396 230
 
 # Credits content
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
