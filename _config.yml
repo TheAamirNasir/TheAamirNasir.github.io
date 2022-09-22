@@ -39,14 +39,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/TheAamirNasir
   - title: instagram
-    url: http://instagram.com/TheAamirNasir
+    url: https://instagram.com/TheAamirNasir
   - title: facebook
-    url: http://www.facebook.com/TheAamirNasir
+    url: https://www.facebook.com/TheAamirNasir
   - title: twitter
-    url: http://twitter.com/TheAamirNasir
+    url: https://twitter.com/TheAamirNasir
   - title: github
-    url: http://github.com/TheAamirNasir
+    url: https://github.com/TheAamirNasir
 
 # Postal address (add as many lines as necessary)
 #address:
