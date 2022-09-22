@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Aamir Nasir
-  location: Location
+  #location: Location
   social: Around the Web
   #credits: Credits
 
