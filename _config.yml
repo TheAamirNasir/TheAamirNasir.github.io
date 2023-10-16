@@ -47,8 +47,8 @@ social:
     url: https://www.facebook.com/TheAamirNasir
   - title: twitter
     url: https://twitter.com/TheAamirNasir
-  #- title: github
- #   url: https://github.com/TheAamirNasir
+  - title: github
+    url: https://github.com/TheAamirNasir
   - title: medium
     url: https://medium.com/@TheAamirNasir
 
