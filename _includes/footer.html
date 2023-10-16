@@ -11,13 +11,14 @@
             {% endfor %}
           </p>
         </div>
-        <div class="footer-col col-md-3">
-          <h3>{{ site.footer.social }}</h3>
-          <ul class="list-inline">
-            {% for network in site.social %}
-            <li>
-              <a href="{{ network.url }}" target="_blank" rel="noopener noreferrer" class="btn-social btn-outline"><i
-                  class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
+      <div class="footer-col col-md-4">
+    <h3>{{ site.footer.social }}</h3>
+    <ul class="list-inline" style="width: auto;">
+        {% for network in site.social %}
+        <li style="display: inline-block; margin-right: 10px;"> <!-- Adjust margin-right as needed -->
+            <a href="{{ network.url }}" target="_blank" rel="noopener noreferrer" class="btn-social btn-outline">
+                <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
+            </a>
             </li>
             {% endfor %}
           </ul>
